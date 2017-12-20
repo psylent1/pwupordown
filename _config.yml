@@ -1,16 +1,16 @@
 theme: jekyll-theme-hacker
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Sample Jekyll Blog
+name: PW Up or Down
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: This is a sample Jekyll Blog.
+description: PW Up or Down: Check server stats for Perfect World International
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Your Name
+author: DoomPlume
 
 # Your email if you want it to be linked on the contact page
-author_email: you@example.com
+author_email: natewashere88@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
