@@ -21,7 +21,19 @@ $sec = "10";
 ?>
 <html>
 <link rel="shortcut icon" type="image/x-icon" href="/logo2.ico" />
-    <head>
+   
+	
+	<head>
+	<meta name="Description" content="Check if Perfect World servers are up or down">
+        <meta name="Keywords" content="Perfect World International, Perfect World, Twilight Temple. Etherblade, Dawnglory, Tideswell, server, up, down">
+        <meta charset="utf-8">
+        <title>PWI Server(s) Status</title>
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link href="css/bootstrap-theme.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
+        <meta http-equiv="refresh" content="<?php echo $sec?>;URL='<?php echo $page?>'">	
+		
+		
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104704130-1"></script>
 <script>
@@ -32,14 +44,7 @@ $sec = "10";
   gtag('config', 'UA-104704130-1');
 </script>
 
-        <meta name="Description" content="Check if Perfect World servers are up or down">
-        <meta name="Keywords" content="Perfect World International, Perfect World, Twilight Temple. Etherblade, Dawnglory, Tideswell, server, up, down">
-        <meta charset="utf-8">
-        <title>PWI Server(s) Status</title>
-        <link href="css/bootstrap.css" rel="stylesheet">
-        <link href="css/bootstrap-theme.css" rel="stylesheet">
-       <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
-        <meta http-equiv="refresh" content="<?php echo $sec?>;URL='<?php echo $page?>'">
+
     </head>
     <body>
 
