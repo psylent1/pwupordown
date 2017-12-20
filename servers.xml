@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	
+	
+<server id="0"><name>Twilight Temple</name><host>pwigc2.perfectworld.com</host><port>29000</port></server><server id="1"><name>Etherblade</name><host>pwiwest4.perfectworld.com</host><port>29000</port></server><server id="2"><name>Tideswell</name><host>pwieast2.perfectworld.com</host><port>29000</port></server><server id="3"><name>Dawnglory</name><host>pwieu3.en.perfectworld.eu</host><port>29000</port></server><server id="4"><name>Test</name><host>google.com</host><port>80</port></server></servers>
