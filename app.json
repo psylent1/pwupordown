@@ -17,7 +17,7 @@
   ],
   "buildpacks": [
     {
-      "url": "heroku/php"
+      "url": "/index.php"
     }
   ]
 }
