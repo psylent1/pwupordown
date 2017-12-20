@@ -4,7 +4,7 @@ theme: jekyll-theme-hacker
 name: PW Up or Down
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: > PW Up or Down: Check server stats for Perfect World International
+# description: > PW Up or Down: Check server stats for Perfect World International
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: DoomPlume
